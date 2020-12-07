@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="rcn.television.de.colombia.rcn.co" tvg-name="RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/1280px-RCN_Televisi%C3%B3n_logo.svg.png#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_canal-rcn-hd_m.png"
 http://maxpremiumtv.xyz:25461/mhd1/hwkvfg0tcT/2976
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL HD" tvg-logo="https://i.imgur.com/B9VM5Ny.png"
+http://maxpremiumtv.xyz:25461/mhd1/hwkvfg0tcT/87062
